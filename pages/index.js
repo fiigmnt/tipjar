@@ -76,7 +76,7 @@ export default function Home() {
         />
         <meta property="og:image" content="/images/meta.png" />
 
-        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:card" content="summary" />
         <meta
           property="twitter:url"
           content="https://tipjar.weallgonnamake.it/"
