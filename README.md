@@ -1,2 +1,1 @@
-# tipjar
-Eth TipJar for any and all ✌️
+## 💰 Eth TipJar
