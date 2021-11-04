@@ -84,7 +84,7 @@ export default function Home() {
         <meta property="twitter:title" content="Eth TipJar by WAGMI" />
         <meta
           property="twitter:description"
-          content="Now you too can have a Connect Wallet button on your site! Beg your friends & fans for some of that sweet sweet eth. This is our version of pass the hat. =]"
+          content="Beg your friends & fans for some of that sweet sweet eth."
         />
         <meta property="twitter:image" content="/images/meta.png" />
 
