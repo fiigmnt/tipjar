@@ -60,7 +60,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Eth TipJar by WAGMI</title>
+        <title>ETH TIPJAR</title>
         <meta name="title" content="Eth TipJar by WAGMI" />
         <meta
           name="description"
@@ -109,12 +109,12 @@ export default function Home() {
         }}
       >
         <div className={styles.title}>
-          <h1>WAGMI</h1>
+          <h1>TIPJAR</h1>
         </div>
         <div className={styles.container}>
           <div className={styles.formContainer}>
-            <h2>TIPJAR SETTINGS</h2>
-            <sub>You must have metamask installed to see example</sub>
+            <h2>SETTINGS</h2>
+            <span style={{fontFamily: "monospace"}}>You must have metamask installed to see example</span>
             <div
               className={styles.form}
               style={{
@@ -139,6 +139,7 @@ export default function Home() {
                   name="placement"
                   id="left"
                   value="left"
+                  checked
                   onChange={updateSetting}
                 />
                 <span style={{ fontSize: '40px' }}>⇆</span>
@@ -156,6 +157,7 @@ export default function Home() {
                   name="color"
                   id="dark"
                   value="dark"
+                  checked
                   onChange={updateSetting}
                 />
                 <span style={{ fontSize: '40px' }}>☯</span>
