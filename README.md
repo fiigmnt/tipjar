@@ -1,6 +1,6 @@
 # 💰 Eth TipJar
 
-**Now YOU TOO can have a wallet connect button on your site & receive tips to your friends!**
+**Now YOU TOO can have a wallet connect button on your site & receive tips from your friends!**
 
 Note: This is a *beta* project by [fiigmnt](https://twitter.com/fiigmnt) and the [wagmi](https://weallgonnamake.it)//[mirage](https://mirage.wtf) team. use *at your own risk* 😇
 
