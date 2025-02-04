@@ -9,7 +9,6 @@ export default function Home() {
   const [color, setColor] = useState("dark");
 
   const updateSetting = ({ target }) => {
-    console.log(color);
     const { value, name } = target;
     switch (name) {
       case "address":
